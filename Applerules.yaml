@@ -6,6 +6,7 @@ payload:
   - '+.api-glb-sea.smoot.apple.com'
   - '+.apple-cloudkit.com'
   - '+.apple-dns.net'
+  - '+.apple.com'
   - '+.apple.*'
   - '+.apple.*.*'
   - '+.appstore.com'
